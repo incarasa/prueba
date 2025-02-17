@@ -1,8 +1,10 @@
 body {
-    background-color: blanchedalmond;
+    background-color: rgb(208, 255, 205);
+    font-size: 2em;
 }
 
 h1 {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 }
